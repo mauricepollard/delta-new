@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
     $("#member-submit").on("click", function(){
-       if( $("#member-submit").val() != 5001){
+       if( $("#pin").val() != 5001){
         $("#error-message").show();
        }
        else{
