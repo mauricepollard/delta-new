@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
-    $("#member-submit").click(function(){
-      alert("The paragraph was clicked.");
-    });
+    $("#member-submit").on("click", function(){
+        alert("The paragraph was clicked.");
+      });
   });
