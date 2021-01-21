@@ -6,7 +6,7 @@ $(document).ready(function(){
        }
        else{
         $("#error-message").hide();
-        window.location.href = "/";
+        window.location.href = "index.html";
        }
       });
   });
