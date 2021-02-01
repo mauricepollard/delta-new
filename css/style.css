@@ -76,3 +76,6 @@ hr {
     width: 200 px !important;
     height: 300 px !important;
 }
+.hidden-phone{
+    display: none;
+}
