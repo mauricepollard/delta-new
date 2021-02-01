@@ -73,6 +73,6 @@ hr {
     padding-right: 2px; */
 }
 .image-members{
-    width: 584 px;
-    height: 389 px;
+    width: 200 px !important;
+    height: 300 px !important;
 }
